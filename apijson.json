@@ -1,0 +1,8 @@
+{
+  "adsdata": {
+    "showads": "true",
+    "app_key": "YOUR_APP_KEY",
+    "banner": "BANNER_ID",
+    "interstitial": "INTERSTITIAL_ID"
+  }
+}
